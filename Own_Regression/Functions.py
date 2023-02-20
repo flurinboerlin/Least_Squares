@@ -1,7 +1,7 @@
 import matplotlib.pyplot as plt
 import numpy as np
 from fredapi import Fred
-fred = Fred(api_key = 'ba54e8d963eb83fd13ce0b3aede0b61e')
+fred = Fred(api_key = 'XX')
 import pandas as pd
 # import scipy as sp
 
